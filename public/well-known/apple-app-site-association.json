@@ -1,0 +1,15 @@
+{
+    "applinks": {
+        "apps": [],
+        "details": [
+            {
+                "appID": "D5JK3MUZND.com.oliveai.Olive3",
+                "paths": [ "*"]
+            },
+            {
+                "appID": "D5JK3MUZND.com.oliveai.Olive3.prod",
+                "paths": [ "*" ]
+            }
+        ]
+    }
+}
