@@ -5,7 +5,7 @@ module.exports = {
   ],
   theme: {
       fontFamily: {
-        'body': ['Jost'],
+        'body': ['Charmonman'],
       }
   },
   plugins: [],
