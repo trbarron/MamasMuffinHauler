@@ -2,7 +2,7 @@ import logo from './logo.svg';
 
 function App() {
   return (
-    <div className='h-screen w-screen bg-[#FAD0E4] grid grid-cols-1	'>
+    <div className='h-screen w-screen bg-[#FFDEA5] grid grid-cols-1	'>
         <img src={logo} className='aspect-auto m-auto lg:max-w-3xl' alt='logo of a truck' />
         <div>
           <div className='text-3xl lg:text-6xl text-center font-body text-white'>
