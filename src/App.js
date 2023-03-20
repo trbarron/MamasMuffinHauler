@@ -8,12 +8,12 @@ function App() {
         <Navbar />
         <img src={logo} className='aspect-auto m-auto lg:max-w-3xl' alt='logo of a truck' />
         <div>
-          <div className='text-3xl lg:text-6xl text-center font-body text-white'>
+          <div className='text-3xl lg:text-6xl text-center font-body text-slate-900'>
             Mama's Muffin Hauler
           </div>
-          <div className='text-xl lg:text-3xl text-center pt-4 font-body text-white'>
+          {/* <div className='text-xl lg:text-3xl text-center pt-4 font-body text-slate-900'>
             more details coming soon
-          </div>
+          </div> */}
         </div>
         <Footer />
     </div>
