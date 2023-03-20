@@ -1,5 +1,6 @@
 import logo from './logo.svg';
 import Navbar from './Navbar';
+import Footer from './Footer';
 
 function App() {
   return (
@@ -14,6 +15,7 @@ function App() {
             more details coming soon
           </div>
         </div>
+        <Footer />
     </div>
   );
 }
