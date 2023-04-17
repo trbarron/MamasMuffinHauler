@@ -3,7 +3,7 @@ import Footer from './Footer';
 
 function Contact() {
   return (
-    <div className='h-screen w-screen bg-toast-500 grid grid-cols-1	'>
+    <div className='min-h-screen w-screen bg-toast-500 grid grid-cols-1	'>
         <Navbar />
         <div>
           <div className='text-3xl lg:text-6xl text-center font-body text-white lg:pb-8'>

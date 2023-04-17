@@ -10,7 +10,7 @@ function Footer() {
                 Made with love from Fall City, WA
             </div>
             <div className='text-center'>
-                V1.0.2
+                V1.0.3
             </div>            
         </div>
       </div>
