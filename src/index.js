@@ -11,6 +11,7 @@ import App from './App';
 import ErrorPage from './error-page';
 import About from './About';
 import Contact from './Contact';
+import Photos from './Photos';
 
 const router = createBrowserRouter([
   {
@@ -25,6 +26,10 @@ const router = createBrowserRouter([
   {
     path: "/Contact",
     element: <Contact />,
+  },
+  {
+    path: "/Photos",
+    element: <Photos />,
   },
 ]);
 

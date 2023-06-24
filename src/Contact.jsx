@@ -7,15 +7,10 @@ function Contact() {
         <Navbar />
         <div>
           <div className='text-3xl lg:text-6xl text-center font-body text-white lg:pb-8'>
-          Contact
+            Kathy Barron
           </div>
           <div className='text-xl lg:text-3xl text-center pt-4 font-body text-white max-w-lg mx-auto'>
-            more details coming soon. Example text here goes here more text here
-            more details coming soon. Example text here goes here more text here
-            more details coming soon. Example text here goes here more text here
-            more details coming soon. Example text here goes here more text here
-            more details coming soon. Example text here goes here more text here
-            more details coming soon. Example text here goes here more text here
+            <a href="mailto:mamasmuffinhauler@gmail.com">mamasmuffinhauler@gmail.com</a>
           </div>
         </div>
         <Footer />
